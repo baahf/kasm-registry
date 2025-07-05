@@ -1,0 +1,21 @@
+{
+  "friendly_name": "gluetun",
+  "image_src": "blob:https://baahf.github.io/4ddc17f0-5126-48e7-af3d-6330a4fb4436",
+  "description": "",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Privacy",
+    "Communication"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "name": "qmcgaw/gluetun",
+  "architecture": [
+    "amd64"
+  ]
+}
