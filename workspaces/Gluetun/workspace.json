@@ -1,6 +1,6 @@
 {
   "friendly_name": "gluetun",
-  "image_src": "gluetun.svg",
+  "image_src": "gluetun.png",
   "description": "",
   "cores": 2,
   "memory": 2768,
