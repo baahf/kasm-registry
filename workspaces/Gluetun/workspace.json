@@ -1,6 +1,6 @@
 {
   "friendly_name": "gluetun",
-  "image_src": "blob:https://baahf.github.io/4ddc17f0-5126-48e7-af3d-6330a4fb4436",
+  "image_src": "gluetun.svg",
   "description": "",
   "cores": 2,
   "memory": 2768,
