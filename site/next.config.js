@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Deepstar Technologies',
     description: 'My Own version of some customized workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/baahf/kasm-registry/',
+    listUrl: 'https://baahf.github.io/kasm-registry/',
     contactUrl: 'https://deepstar.net/support',
   },
   reactStrictMode: true,
